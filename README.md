@@ -1,6 +1,7 @@
 # Easy-deep-learning-with-Keras
 <img alt="GitHub Release Date - Published_At" src="https://img.shields.io/github/release-date/amirgazar/deep-learning-with-Keras?color=black">
-<img alt="GitHub contributors from allcontributors.org" src="https://img.shields.io/github/all-contributors/amirgazar/deep-learning-with-Keras?color=black">
+<img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/amirgazar/deep-learning-with-Keras?color=gold">
+
 
 If you are unfamiliar with data preprocessing, first review **NumPy & Pandas** sections of ```Python for data analysis``` repository materials (https://github.com/buomsoo-kim/Python-for-data-analysis)
 
