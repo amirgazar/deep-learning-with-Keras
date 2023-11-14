@@ -1,10 +1,9 @@
 # Easy-deep-learning-with-Keras
 <img alt="GitHub Release Date - Published_At" src="https://img.shields.io/github/release-date/amirgazar/deep-learning-with-Keras?color=black">
 <img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/amirgazar/deep-learning-with-Keras?color=gold">
-[<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e2274222f05da0e898ad726221f93267af1143707173150f8191d8a405283138/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7265706f2d73697a652f6572646f67616e742f626e6c6561726e"><img src="https://camo.githubusercontent.com/e2274222f05da0e898ad726221f93267af1143707173150f8191d8a405283138/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7265706f2d73697a652f6572646f67616e742f626e6c6561726e" alt="GitHub repo size" data-canonical-src="https://img.shields.io/github/repo-size/amirgazar/deep-learning-with-Keras" style="max-width: 100%;"></a>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/amirgazar/deep-learning-with-Keras?color=cyan">
 
-](https://img.shields.io/github/repo-size/amirgazar/deep-learning-with-Keras?color=cyan
-)
+
 If you are unfamiliar with data preprocessing, first review **NumPy & Pandas** sections of ```Python for data analysis``` repository materials (https://github.com/buomsoo-kim/Python-for-data-analysis)
 
 Materials in this repository are for educational purposes.
