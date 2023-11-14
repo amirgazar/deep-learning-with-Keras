@@ -1,4 +1,5 @@
 # Easy-deep-learning-with-Keras
+<img alt="GitHub Release Date - Published_At" src="https://img.shields.io/github/release-date/amirgazar/deep-learning-with-Keras?color=black">
 
 If you are unfamiliar with data preprocessing, first review **NumPy & Pandas** sections of ```Python for data analysis``` repository materials (https://github.com/buomsoo-kim/Python-for-data-analysis)
 
